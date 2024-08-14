@@ -1,0 +1,10 @@
+[package]
+name = "xvm"
+version = "0.0.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A Version Manager for everything you could ask for"
+homepage = "https://github.com/raphaeldarley/xvm"
+repository = "https://github.com/raphaeldarley/xvm"
+
+[dependencies]
